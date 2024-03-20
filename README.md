@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jackybomsucesso
 - 👀 I’m interested in a junior position or internship.
-- 🌱 I’m currently learning programming logic
+- 🌱 I’m currently learning programming logic e cursando QA na tripleten 🇧🇷
 - 💞️ I’m looking to collaborate on with the team and help the company
 - 📫 How to reach me (tabafelix@gmail.com) / (@jackybomsucesso).
 
